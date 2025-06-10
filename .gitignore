@@ -1,0 +1,21 @@
+Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+Data
+data/
+Flight_Fare.xlsx
+
+Models
+*.pkl
+*.joblib
